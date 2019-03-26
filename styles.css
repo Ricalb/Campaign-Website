@@ -1,0 +1,46 @@
+#donate button:hover {
+    background: pink;
+    color: black;
+}
+img {
+  border-radius: 8px;
+}
+img {
+  border-radius: 50%;
+}
+img{
+  width:200px;
+  height: 150px;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 4s;
+}
+h3 {
+  text-shadow: 2px 2px 5px blue;
+}
+
+h2{
+  text-shadow: 2px 2px white  ;
+}
+h1 {
+  text-shadow: 2px 2px 5px white;
+}
+body{
+    background-color:black;
+    
+}
+h3 {
+  font-family: "Courier New", Times, serif;
+}
+h3{
+    color:pink;
+}
+h1{
+    color:blue;
+}
+h3 {
+  border-style: dotted solid;
+}
+img {
+  background-image: linear-gradient(red, yellow);
+}
